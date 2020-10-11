@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HHWeather</string>
+    <string name="search_place">输入搜索的地址</string>
 </resources>
